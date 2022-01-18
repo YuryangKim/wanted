@@ -323,32 +323,32 @@ const PrevBtn = styled.button`
   @media only screen and (max-width: 770px) {
     position: absolute;
     width: 20px;
-    height: 50px;
-    top: 32%;
-    left: 19%;
+    height: 35px;
+    top: 13%;
+    left: 14%;
   }
 
   @media only screen and (min-width: 770px) {
     position: absolute;
-    width: 20px;
+    width: 25px;
     height: 50px;
-    top: 32%;
-    left: 19%;
+    top: 15%;
+    left: 17%;
   }
 
   @media only screen and (min-width: 1024px) {
     position: absolute;
     width: 30px;
     height: 60px;
-    top: 26%;
-    left: 19%;
+    top: 16%;
+    left: 20%;
   }
 
   @media only screen and (min-width: 1460px) {
     position: absolute;
     width: 30px;
     height: 60px;
-    top: 40%;
+    top: 18%;
     left: 21%;
   }
 
@@ -373,32 +373,32 @@ const NextBtn = styled.button`
   @media only screen and (max-width: 770px) {
     position: absolute;
     width: 20px;
-    height: 50px;
-    top: 32%;
-    right: 19%;
+    height: 35px;
+    top: 13%;
+    right: 14%;
   }
 
   @media only screen and (min-width: 770px) {
     position: absolute;
-    width: 20px;
+    width: 25px;
     height: 50px;
-    top: 32%;
-    right: 19%;
+    top: 15%;
+    right: 17%;
   }
 
   @media only screen and (min-width: 1024px) {
     position: absolute;
     width: 30px;
     height: 60px;
-    top: 26%;
-    right: 19%;
+    top: 16%;
+    right: 20%;
   }
 
   @media only screen and (min-width: 1460px) {
     position: absolute;
     width: 30px;
     height: 60px;
-    top: 40%;
+    top: 18%;
     right: 21%;
   }
 
