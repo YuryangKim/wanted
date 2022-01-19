@@ -1,7 +1,7 @@
 # Wanted Assignment
 
 ## 배포 사이트 주소
-https://wanted-assignment.netlify.app
+https://wanted-pre-onboading.netlify.app
 
 
 ## 사용 툴
