@@ -1,5 +1,6 @@
 # wanted_pre_onboading
 
+<br/>
 
 ## 구현 목표
 - 원티드 상단 영역 리액트 기반으로 구현
