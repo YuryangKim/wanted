@@ -14,6 +14,12 @@
 ## 사용 툴
 `React`, `Styled-component`
 
+<br/>
+
+## 배포 툴
+`Netlify`
+
+
 <Br/>
 
 ## 배포 사이트 주소
